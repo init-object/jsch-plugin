@@ -28,4 +28,4 @@ jobs:
       uses: actions/upload-artifact@v3
       with:
         name: jsch-plugin
-        path: jsch.hpi
+        path: target/jsch.hpi
